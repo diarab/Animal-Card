@@ -1,0 +1,50 @@
+/* add your CSS here */
+
+.fact
+{
+	font-style: italic;
+}
+
+.label
+{ 
+	font-weight: bold;
+}
+
+.container
+{
+	border: solid;
+	border-width: 1px;
+	border-color: #cecece;
+	box-shadow: 10px 5px 5px #cecece;
+	padding: 15px;
+	width: 300px;
+}
+
+.card
+{
+	border: solid;
+	border-width: 1px;
+	border-color: #cecece;	
+}
+
+.description
+{
+	border: solid;
+	border-width: 1px;
+	border-color: #cecece;
+	padding: 10px;
+	width: 280px;
+}
+
+ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+img 
+{
+	width: 300px;
+	padding-bottom: 10px;
+}
