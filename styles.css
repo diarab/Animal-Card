@@ -1,50 +1,49 @@
-/* add your CSS here */
 
-.fact
-{
+.fact {
 	font-style: italic;
 }
 
-.label
-{ 
+.title {
+  color: #C56126;
+  font-size: 20px;
+  font-family: Lato;
+}
+.label { 
 	font-weight: bold;
+  color: white;
+  font-family: Lato;
 }
 
-.container
-{
+.container {
 	border: solid;
 	border-width: 1px;
 	border-color: #cecece;
 	box-shadow: 10px 5px 5px #cecece;
-	padding: 15px;
+  border-radius: 15px;
+	padding: 20px;
 	width: 300px;
+  background-color: #fbaf35;
 }
 
-.card
-{
-	border: solid;
-	border-width: 1px;
-	border-color: #cecece;	
-}
 
-.description
-{
+.description {
 	border: solid;
-	border-width: 1px;
+	border-width: 4px;
+  border-radius: 15px;
 	border-color: #cecece;
 	padding: 10px;
 	width: 280px;
+  background-color: coral;
 }
 
-ul 
-{
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
-img 
-{
+img {
 	width: 300px;
 	padding-bottom: 10px;
+  border-radius: 15px;
 }
